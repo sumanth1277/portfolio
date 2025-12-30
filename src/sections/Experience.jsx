@@ -4,20 +4,20 @@ import { useRef } from 'react';
 const experiences = [
   {
     company: "Tech Innovators Inc.",
-    role: "Senior Full-Stack Developer",
-    date: "2023 - Present",
+    role: "junior frontend  Developer",
+    date: "2024 - Present",
     desc: "Leading the development of a high-traffic MERN platform, optimizing database queries by 40%."
   },
   {
     company: "Startup Hub",
     role: "Full-Stack Engineer",
-    date: "2021 - 2023",
+    date: "2024 - 2025",
     desc: "Built scalable microservices using Node.js and integrated Three.js for interactive data viz."
   },
   {
     company: "Digital Agency",
     role: "Junior Developer",
-    date: "2019 - 2021",
+    date: "2023 - 2024",
     desc: "Specialized in React-based UI/UX and state management with Redux Toolkit."
   }
 ];
