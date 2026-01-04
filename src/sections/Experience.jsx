@@ -4,8 +4,8 @@ import { useRef } from 'react';
 const experiences = [
   {
     company: "Tech Innovators Inc.",
-    role: "junior frontend  Developer",
-    date: "2024 - Present",
+    role: "Mern stack Developer",
+    date: "2026- Present",
     desc: "Leading the development of a high-traffic MERN platform, optimizing database queries by 40%."
   },
   {
