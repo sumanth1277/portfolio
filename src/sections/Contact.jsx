@@ -26,7 +26,7 @@ export default function Contact() {
       </motion.div>
       
       <footer className="mt-20 text-gray-500 text-sm font-mono">
-        © 2025 ALL RIGHTS RESERVED | DEVELOPED BY [PERAM SUMANTH REDDY]
+        © 2026 ALL RIGHTS RESERVED | DEVELOPED BY PERAM SUMANTH REDDY
       </footer>
     </section>
   );
